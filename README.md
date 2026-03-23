@@ -41,3 +41,13 @@ I help businesses grow their online presence by creating engaging content, runni
 - ## 📸 My Work
 
 ![50% OFF PHONE ACCESSORIES](50% OFF PHONE ACCESSORIES.png)
+## 📸 My Work
+
+### Computer Repair Services
+![Computer Repair](poster1.png)
+
+### Smartphone Accessories Promotion
+![Smartphone Ad](poster2.png)
+
+### Computer Services / Promotional Ad
+![Computer & Software Services](poster3.png)
