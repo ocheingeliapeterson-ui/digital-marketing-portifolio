@@ -40,4 +40,4 @@ I help businesses grow their online presence by creating engaging content, runni
 - Phone: +256704743457
 - ## 📸 My Work
 
-![Poster](poster1.png)
+![50% OFF PHONE ACCESSORIES](50% OFF PHONE ACCESSORIES.png)
