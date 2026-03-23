@@ -38,3 +38,6 @@ I help businesses grow their online presence by creating engaging content, runni
 ## 🔹 Contact
 - Email: delixinternational@gmail.com
 - Phone: +256704743457
+- ## 📸 My Work
+
+![Poster](poster1.png)
